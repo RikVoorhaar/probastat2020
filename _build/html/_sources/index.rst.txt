@@ -1,9 +1,9 @@
-Bienvenue à la site web des solutions pour 12M061
+Bienvenue à le site web des solutions pour 12M061
 =================================================
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
+   :caption: Contenu:
    :glob:
 
    nblinks/*
