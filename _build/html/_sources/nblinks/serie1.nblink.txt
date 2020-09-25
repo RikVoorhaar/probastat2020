@@ -1,3 +1,0 @@
-{
-    "path": "../notebooks/serie1.ipynb"
-}
