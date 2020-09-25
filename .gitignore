@@ -4,3 +4,5 @@ nohup.out
 .vscode/
 
 notebooks/.ipynb_checkpoints/
+
+_build/*
