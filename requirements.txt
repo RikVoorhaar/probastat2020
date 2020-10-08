@@ -2,3 +2,4 @@ nbsphinx
 nbsphinx_link
 Pygments==2.7.1
 sphinx_rtd_theme==0.5.0
+ipython
