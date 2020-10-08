@@ -37,6 +37,7 @@ extensions = [
     "sphinx.ext.napoleon",
     "nbsphinx",
     "nbsphinx_link",
+    'IPython.sphinxext.ipython_console_highlighting',
 ]
 
 master_doc = 'index'
