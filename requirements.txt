@@ -1,3 +1,4 @@
 nbsphinx
 nbsphinx_link
 Pygments==2.6.1
+sphinx_rtd_theme==0.5.0
