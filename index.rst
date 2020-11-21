@@ -9,6 +9,7 @@ Bienvenue sur le site web des solutions pour 12M061
    nblinks/jupyter-intro.nblink
    nblinks/programmation1.nblink
    nblinks/programmation2.nblink
+   nblinks/programmation3.nblink
    nblinks/serie1.nblink
    nblinks/serie2.nblink
    nblinks/serie3.nblink
